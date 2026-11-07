@@ -2,6 +2,8 @@
 
 ---Prototipo de Aplicacion de eEscritorio Para la gestión de Grabadores Externos de Video Profesionales
 
+Este Trabajo Ya se venia trabjando desde el 2 semestre 
+
 
 # Integrantes;
 
