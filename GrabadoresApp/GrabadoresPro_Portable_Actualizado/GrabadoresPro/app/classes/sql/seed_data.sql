@@ -1,6 +1,6 @@
 -- ============================================
 -- DATOS DE PRUEBA — 10 registros por tabla
--- Proyecto Integrador III - UNIAJC
+-- Proyecto Integrador 4 - UNIAJC
 -- ============================================
 
 -- Contraseñas hasheadas con SHA-256 (todas son "123456" para pruebas)
