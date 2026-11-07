@@ -39,3 +39,31 @@ Después de iniciar sesión, use el menú lateral:
 - **Comparador:** comparar las características de los grabadores.
 - **Generar Reportes:** seleccionar un tipo de reporte, aplicar sus filtros, generar los resultados y exportarlos a PDF. En **Historial de reportes** se pueden consultar los reportes exportados y eliminar un registro del historial. Eliminarlo del historial no borra el archivo PDF guardado en el equipo.
 - **Gestión de Usuarios:** administrar usuarios (solo administradores).
+
+
+Para cerrar sesión, use **Salir** en la parte superior. Para cerrar la aplicación, use el botón de cerrar ventana y confirme.
+
+## Ejecutar desde el código fuente
+
+Abra una terminal en la carpeta `GrabadoresApp` y ejecute:
+
+```powershell
+mvn clean package
+java -jar target/GrabadoresApp-1.0.0.jar
+```
+
+La base de datos local `grabadores.db` se crea en el directorio de trabajo desde el cual se inicia la aplicación. Mantenga ese archivo en un lugar seguro si necesita conservar los datos ingresados.
+
+## Ejecutar las pruebas
+
+Desde la carpeta `GrabadoresApp`:
+
+```powershell
+mvn test
+```
+
+## Tecnologías
+
+- Java 17 y Swing
+- SQLite
+- Maven
