@@ -20,3 +20,6 @@ Lior Alberto Zuluaga
 2. Entre en `GrabadoresPro`.
 3. Ejecute `GrabadoresPro.exe`.
 4. En el inicio de sesión, use una cuenta de prueba:
+
+| Administrador | `profesor.123@uniajc.edu.co` | `123456` |
+   | Consultor | `carlos.mendez@uniajc.edu.co` | `123456` | ----este es solo un ejemplo xd
