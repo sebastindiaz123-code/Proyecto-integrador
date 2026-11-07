@@ -1,6 +1,6 @@
 -- ============================================
 -- SCHEMA SQLite — Grabadores Externos de Video
--- Proyecto Integrador III - UNIAJC
+-- Proyecto Integrador 4 - UNIAJC
 -- ============================================
 
 PRAGMA foreign_keys = ON;
